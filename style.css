@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+    font-weight: 500;
+
+}
+
+.me{
+    border: 2px solid red;
+    background-color: black;
+}
+
+.me2{
+    border: 2px green dotted;
+    background-color: blanchedalmond;
+}
+
+/* ############# heading ########### */
+
+.heightForHeader{
+    height: 97vh;
+    background-image: url(./img-etc/ameer-basheer-gV6taBJuBTk-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.img-set{
+    background-color: rgb(83, 82, 82);
+}
+
+.icon-handle{
+    width: 17%;
+    }
+
+.icon-handle2{
+    width: 7%;
+}
+
+.teamimagesize{
+    height: 200px;
+    width: 200px;
+}
+
+.section input:focus,
+.section btn:focus
+
+{
+    box-shadow: none;
+}
+
+.heading-fonts{
+    font-size: 240%;
+    font-weight: 500;
+    color: white;
+}
+
+.btn{
+    color: white;
+
+}
+
+.nav-bg{
+    background-color: rgba(245, 245, 245, 0.514);
+}
+
+.sec-head{
+    font-size: 2rem;
+    font-weight: 600;
+    color: rgb(89, 89, 240);
+}
+
+.section .card-effect:hover{
+    box-shadow: none;
+}
+
+.section .card-effect2:hover{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+.i-size{
+    width: 8%;
+}
+.i-size2{
+    width: 17%;
+}
+.f-i-size{
+    width: 4%;
+}
